@@ -17,8 +17,8 @@ export const pricingPlans = [
       "A plan to test the purchase experience. Try buying this with the test credit card 4242424242424242.",
     price: "$5",
     priceIntervalName: "per month",
-    stripe_price_id: "price_1NkdZCHMjzZ8mGZnRSjUm4yA",
-    stripe_product_id: "prod_OXj1CcemGMWOlU",
+    stripe_price_id: "price_1Q03dgKzRNNsxxrfBrI1cVCV",
+    stripe_product_id: "prod_QrnEKzbCd3C9sH",
     features: [
       "Everything in Free",
       "Support us with fake money",
@@ -30,10 +30,10 @@ export const pricingPlans = [
     name: "Enterprise",
     description:
       "A plan to test the upgrade experience. Try buying this with the test credit card 4242424242424242.",
-    price: "$15",
+    price: "$50",
     priceIntervalName: "per month",
-    stripe_price_id: "price_1Nkda2HMjzZ8mGZn4sKvbDAV",
-    stripe_product_id: "prod_OXj20YNpHYOXi7",
+    stripe_price_id: "price_1Q03e3KzRNNsxxrfHlD5zetB",
+    stripe_product_id: "prod_QrnEUC2qL9Ij9K",
     features: [
       "Everything in Pro",
       "Try the 'upgrade plan' UX",
